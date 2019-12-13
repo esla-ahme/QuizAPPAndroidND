@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">English Language Quiz</string>
+    <string name="title">English Language Quiz</string>
+    <string name="cat">Cat</string>
+    <string name="apple">Apple</string>
+    <string name="q3">What is the plural of egg?</string>
+    <string name="q2">The opposite of tall is short</string>
+    <string name="you_scored_0_of_4">You Scored 0 of 4</string>
+    <string name="time">60s</string>
+    <string name="q1">What is the opposite of hot?</string>
+    <string name="t">True</string>
+    <string name="fa">False</string>
+    <string name="q4">Which of the following is not fruit?</string>
+    <string name="dog">Dog</string>
+    <string name="submit">Submit</string>
+    <string name="reset">reset</string>
+</resources>
